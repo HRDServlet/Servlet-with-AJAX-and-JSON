@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Servlet with AJAX and JSON">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Servlet_with_AJAX_and_JSON"/>
+        <property name="java-output-path" value="/Servlet with AJAX and JSON/build/classes"/>
+    </wb-module>
+</project-modules>
